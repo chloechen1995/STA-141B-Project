@@ -1,8 +1,16 @@
-## Welcome to GitHub Pages
+## Welcome to our STA 141B Project GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/chloechen1995/STA-141B-Project/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Table of Contents
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Website for the dataset:
+http://databits.io/challenges/airbnb-user-pathways-challenge
+
+
+Introduction/Motivation:
+Data Description:
+Data Analysis:
+Observation: 
+Conclusion
 
 ### Markdown
 
