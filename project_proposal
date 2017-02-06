@@ -1,0 +1,42 @@
+List the members of your group.
+
+Stephanie Lam, Janet Loyola, Jieyi Chen
+
+
+Give a 1-2 paragraph description of your project.  Include the title, possible questions to explore, datasets, and brief plan of attack.
+
+Title:
+Yelp Dataset Analysis
+
+Project Description:
+In this project, we will analyze the Yelp Dataset that contains local businesses in 11 cities across 4 countries. Here are some possible problems that we are interested in:
+
+1) What are the popular seasons for different types of businesses?
+2) How does a business's location (separated by countries) affects its success?
+3) What are the correlations between the business categories?
+4) How does a guest's review rating correlates with the common positive or negative words used in the reviews?
+5) What are the top 10 businesses in each category that have higher rating/stars in Yelp?
+6) What are some common personality or characteristics that an active Yelp users has?
+7) How does the checkin time varies in different business categories?
+8) What is the correlation between tips and reviews (extract tips from reviews)?
+
+
+
+Datasets:
+https://www.yelp.com/dataset_challenge
+The datasets contain five json files, in which includes information about the business, checkin, review, tip and user. 
+
+
+Plan of Attack:
+1) Read the json files
+3) Dig into each file and find the correlation between different variables
+4) Plot the business locations after separating them into different cateogires
+5) Find the most common words from the reviews and check how they can predict the guest's review rating
+6) Analyze the users' votes, compliments and time on Yelp to predict their personality
+7) Group the checkin time and see how different business categories fall into the different time ranges 
+8) Compare the common words that are used in tips and reviews and see how they match with each other
+
+What is the URL for your github repository?  It should be of the form http://github.com/username/reponame (Links to an external site.).
+
+Link: https://github.com/chloechen1995/STA-141B-Project.git
+
