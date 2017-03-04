@@ -1,0 +1,29 @@
+Project Overview:
+
+Introduction:
+In this project, we will provide a travel guide for the California visitors.
+First, we will show them the best landmarks, restaurants and hotels in CA using different graphs. Second, we will ask them for a city input. Third, we will display a basic overview of the city with a paragraph and dataframe. Lastly, we will use natural language processing to analyze the reviews for different businesses in California. 
+
+Part I: Data Wrangling
+a) yelp_search function: search for a business in certain location based on the distance or highest rated
+b) extract url function: extract the content from the wikipedia page and create a datafrmae with the city information
+c) create a dataframe with the latitude and longitude informtion
+d) merge the two dataframes from b and c together
+
+Part II: Analyzing data and Plotting
+a) find the top 10 businesses in each category and display the information using plotly
+b) plot the distribution of stars(rating) by category
+c) average_star_city function gives the average star rating by city and display the information using plotly
+d) find the correlation between rating and review count using scatter plot
+
+Part III: Get the basic information of each city in California
+a) use widgets to create an interactive function to ask user for a city input
+b) extract_info function extracts the information of each city from the Wikipedia page and create a dataframe to display the information
+c) extract_overview function extracts the first paragraph, which is an overview of the city, in each Wikipedia page
+
+Part IV: Analyze the review content 
+a) Read the review_dataset 
+b) Extract the businesses in California from the dataset
+c) Anayze the content using natural language processing
+
+
