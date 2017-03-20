@@ -15,22 +15,15 @@ With our passion of traveling, we are interested in helping the others to discov
 Our goal of the project is to provide a travel guide for California visitors by showing them the best hotels, restaurants, and landmarks with the applications of web data processing, interactive data vistualization, natural language processing, and interactive user input using Python.
 
 Data Description:
-
-I. Extracted and collected data from the Yelp Search API and performed a web scraping from Wikipedia page, we created a dataframe with business and California cities information.
+- Extracted and collected data from the Yelp Search API and performed a web scraping from Wikipedia page, we created a dataframe with business and California cities information. Dataframe will contains information including Categories, City, Phone number, Id, Claimed, Closed, Mobile URL, Name, Rating, Review Count, Snippet Text, URL, Population, Latitude, and Longitude.
 
 Data Analysis:
 
-II. Since we want our users to be able to track the different categories for their own personal needs, we used interactive plots to give the user a richer information experience.
+- Since we want our users to be able to track the different categories for their own personal needs, we used interactive plots to give the user a richer information experience.
 
--Restaurant
+- By using natural language processing, we analyzed the reviews from the Yelp API and find the common words that are used in the review by analyzing the best rated nearby restaurants, hotels, landmarks for all the cities in California.
 
--Hotels
-
--Landmarks
-
-III. By using natural language processing, we analyzed the reviews from the Yelp API and find the common words that are used in the review by analyzing the best rated nearby restaurants, hotels, landmarks for all the cities in California.
-
-IV. With the application of interactive user input functions, we will try to provide a basic info of the city and best recommendations of restaurants, hotels and landmarks to the user by extracting informations from the Wikipedia. 
+- With the application of interactive user input functions, we will try to provide a basic info of the city and best recommendations of restaurants, hotels and landmarks to the user by extracting informations from the Wikipedia. 
 
 Conclusion & Next step:
 
