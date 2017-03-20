@@ -23,7 +23,9 @@ Data Analysis:
 II. Since we want our users to be able to track the different categories for their own personal needs, we used interactive plots to give the user a richer information experience.
 
 -Restaurant
+
 -Hotels
+
 -Landmarks
 
 III. By using natural language processing, we analyzed the reviews from the Yelp API and find the common words that are used in the review by analyzing the best rated nearby restaurants, hotels, landmarks for all the cities in California.
