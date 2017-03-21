@@ -31,5 +31,5 @@ Conclusion & Next Step:
 This travel guide has provided a comprehensive analysis for most restaurants, hotels and landmarks in California and make recommendations based on the users' preferences. Our next step will be creating a website that gets the user inputs displays the recommendations and plots. We will need to find a larger database that will contain more information and a web server that allows dynamic content. Furthermore, we will use this project as a template to create travel guides for other states as well.
 
 Please check out our website: 
-
+https://chloechen1995.github.io/STA-141B-Project.github.io/
 
